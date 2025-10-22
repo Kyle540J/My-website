@@ -2,14 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-    h1 {color: blue;}
-    h2 {border: dashed 5px;}
-    p {color: grey;}
-    img {
-        height:200px;
-    }
-</style>
+<link rel="stylesheet" href="style.css" />
+
 <title>My Website</title>
 <body>
 <h1>Most Popular Kinds of Bubble Tea</h1>
